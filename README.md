@@ -1,4 +1,7 @@
-# Locomotive-Scroll v3
+# Partage de discussion avec chatgpt
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/h-lautre/pen/raBxbdq](https://codepen.io/h-lautre/pen/raBxbdq).
+## Toi aussi le dimanche aprem quand il pleut tu discute avec des IA?
+
+### Viens on discute.
+
 
